@@ -1,6 +1,6 @@
 # Hi there, I'm Aabhas 👋
 
-### 🎓 AI/ML Engineer | Integrated Masters in CS
+### 🎓 AI/ML Engineer | Masters in CS
 I am a Machine Learning Engineer passionate about building scalable intelligent systems. With a specialization in AI/ML, I focus on turning data into deployable models rather than just experimental notebooks.
 
 ---
